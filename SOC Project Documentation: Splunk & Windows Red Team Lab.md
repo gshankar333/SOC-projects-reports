@@ -1,4 +1,4 @@
-<h1>SOC Project Documentation: Splunk & Windows Red Team Lab</h1>
+<h1>SOC Endpoint Telemetry & Detection Lab: Splunk & Windows Red Team Tests</h1>
 <hr>
 
 <h2>1. Executive Summary</h2>
