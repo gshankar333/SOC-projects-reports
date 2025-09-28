@@ -10,7 +10,7 @@
 
 <hr>
 
-<h2>2. Introduction / Background</h2>
+<h2>2. Introduction </h2>
 <p>Effective SOC operations rely on visibility into endpoint activities and the ability to detect malicious behaviors. 
 This project was undertaken to:</p>
 <ul>
