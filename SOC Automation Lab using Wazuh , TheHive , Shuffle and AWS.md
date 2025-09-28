@@ -1,4 +1,4 @@
-<h1>SOC Project Documentation: Wazuh, TheHive & Shuffle Automation Lab</h1>
+<h1>SOC Automated Notification Lab using Wazuh, TheHive & Shuffle </h1>
 <hr>
 
 <h2>1. Executive Summary</h2>
